@@ -1,0 +1,168 @@
+canonical_identifier: bkk:krp/KR6c0188/X/v1
+canonical_location: https://kanripo.org/bkk/KR6c0188/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若心經句解易知
+  identifiers:
+    krp: KR6c0188
+    cbeta: X26n0569
+    cbeta_old_id: X26n0569
+    authorityid: CA0000187
+    json_key: X0569
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0569.xml
+    old_id: X26n0569
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0188_000-X.yaml, hash: 'sha256:5d21764919ded02c0245aedb861c29a9e1259c154b204ec713af916a1b25a432'}
+  - {seq: 1, filename: KR6c0188_001-X.yaml, hash: 'sha256:65e5c471eef7f6dd82ae43147f937f9e0480aaf88fc3c7984cea6547f85b56e0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0188_000-X.markers.yaml, hash: 'sha256:144bf1a48efb7555cad993a2839d37f6444f2552d7a6c6efc9db57d16c7516d4'}
+  - {seq: 1, role: markers, filename: assets/KR6c0188_001-X.markers.yaml, hash: 'sha256:a1adab1c648ddb5d05f3c3c337d52ec849a8e5778f7cabcccb1a46766f52217c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0188_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 569-A 般若波羅蜜多心經句解易知序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5146
+  label: 摩訶般若波羅蜜多心經句解易知
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-2
+    span:
+    - body
+    - 246
+    - 246
+  label: 初菩薩修證分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-3
+    span:
+    - body
+    - 895
+    - 895
+  label: 二色空正義分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-4
+    span:
+    - body
+    - 1417
+    - 1417
+  label: 三空生生滅分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-5
+    span:
+    - body
+    - 1647
+    - 1647
+  label: 四法離染淨分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-6
+    span:
+    - body
+    - 3272
+    - 3272
+  label: 五蘊顯無得分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-7
+    span:
+    - body
+    - 3336
+    - 3336
+  label: 六明菩薩依分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-8
+    span:
+    - body
+    - 3709
+    - 3709
+  label: 七明諸佛依分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-9
+    span:
+    - body
+    - 3876
+    - 3876
+  label: 初呪義結經分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-10
+    span:
+    - body
+    - 4081
+    - 4081
+  label: 二先出呪益分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-11
+    span:
+    - body
+    - 4184
+    - 4184
+  label: 三標名說呪分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0188_X_001-mulu-12
+    span:
+    - body
+    - 4733
+    - 4733
+  label: 補遺
+  type: mulu
+  level: 1
+hash: sha256:2a0f7d4bd2061b55156d4f83cad040cf5f621c1a2fc3b0fa23de39a0a4017eab
